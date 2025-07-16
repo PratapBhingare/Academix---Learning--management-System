@@ -20,7 +20,7 @@ Academix is a full-featured Learning Management System (LMS) built using the MER
 Screen shots :
 
 <img width="1500" height="700" alt="Screenshot 2025-04-17 200927" src="https://github.com/user-attachments/assets/4af5b6cc-4bd7-406a-a686-d2b9ea4fc5bc" />
-<br/>
+<br></br>
 <img width="1920" height="1080" alt="Screenshot 2025-04-22 142718" src="https://github.com/user-attachments/assets/ec39eee1-f501-4dad-b83e-f51b4fde911f" />
 <br/>
 
