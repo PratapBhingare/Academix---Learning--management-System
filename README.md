@@ -17,6 +17,14 @@ Academix is a full-featured Learning Management System (LMS) built using the MER
 
 🎨 Modern UI with responsive design using Tailwind CSS / ShadCN
 
+Screen shots :
+
+<img width="1883" height="916" alt="Screenshot 2025-04-17 200927" src="https://github.com/user-attachments/assets/4af5b6cc-4bd7-406a-a686-d2b9ea4fc5bc" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-04-20 172312" src="https://github.com/user-attachments/assets/2816c948-498d-4f12-a81a-73f1460029e3" />
+
+
+
 🛠 Tech Stack:
 Frontend: React.js, Tailwind CSS
 
